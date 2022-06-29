@@ -61,10 +61,12 @@ class Hypothetical extends Brute{
 
   /*
   The following number: 0.000000056 which is used as a ratio between attemps and time is incorrect in several ways:
-    1. Cacluated via times from replit - slow as it's being
+    1. Cacluated via times from replit - which is quite slow
     2. It is calculated just by a ratio, instead of:
-      - adding the base amount time necessary (if guesseed correctly first try (ex: "eee"))
+      - adding the base amount time necessary (the time of the system if it is guesseed correctly the first try (ex: "eee" with 0 attempts))
       - then adding the ratio between attemps and time
+    3. The times Replit takes with the same input varies. 
+  I believe this current ratio makes the time longer than it should be.
   I chose this number because it worked as a subsitute for the time
   I found this number by vibe checking a bunch of ratios under the 6 letter limit
   */
