@@ -29,7 +29,7 @@ class Main {
       Brute b = new Brute(inputPass, start);
       String weirdCharacString = b.weirdCharac(); // checks for unknown charaters
 
-      if (weirdCharacString == null){ // if there are no uknown characters
+      if (weirdCharacString == null){ // if there are no unknown characters
 
         Hypothetical h = new Hypothetical(inputPass, start);
         Boolean moreThanSix = h.sixCharac();
