@@ -40,5 +40,7 @@ Here are my sources for the ordering of my characters array.
 	- [Specific png of the chart, on imgur](https://i.imgur.com/aoIa6UX.png)
 
 Here are some sources for the information that I learned about passcodes in making this project.
+- Data on patterns in passwords, I found this useful while looking at dictionary style attacks: [“Unmasked: What 10 million passwords reveal about the people who choose them,” on WP Engine, updated November 28 2021](https://wpengine.com/resources/passwords-unmasked-infographic/) 
+- Information about forced changing passwords, I found this useful while looking at dictionary style attacks: [“Time for Password Expiration to Die,” by Lance Spitzner on Sans.org, June 27 2019](https://www.sans.org/blog/time-for-password-expiration-to-die/)
+- Information about how to make a password: [“How to Choose a Password - Computerphile,” by Computerphile on YouTube.com, July 20 2016](https://youtu.be/3NjQ9b3pgIg)
 
-***to be finished***
