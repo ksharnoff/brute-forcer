@@ -1,7 +1,7 @@
 # brute-forcer
 
 ### What is this?
-This is a project made by me for my high school's math “Maker Fair” that took place in February 2022. This project is coded completely in Java, as I made while I took AP CS A. I coded it on Replit for easy sharing at the fair. 
+This is a project made by me for my high school's math “Maker Fair” that took place in February 2022. This project is coded completely in Java, as I made while I took AP CS A. I coded it on [Replit for easy sharing](https://replit.com/@Sharnoff/Maker-Faire-Password-Cracker) at the fair. 
 
 ### What does it do?
 ![Hello-spaghetti](https://github.com/ksharnoff/brute-forcer/blob/main/hello-spaghetti_example.png)
