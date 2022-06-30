@@ -18,7 +18,7 @@ Something to note, is because of the order of the characters array, any input th
 
 ### How does it work?
 
-***to finish section***
+***to be finished***
 
 
 
@@ -41,4 +41,4 @@ Here are my sources for the ordering of my characters array.
 
 Here are some sources for the information that I learned about passcodes in making this project.
 
-***to finish section***
+***to be finished***
