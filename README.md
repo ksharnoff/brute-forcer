@@ -24,6 +24,7 @@ Something to note, is because of the order of the characters array, any input th
 
 
 ### How can this be improved for the future? 
+
 These ideas are also written at the top of Main.java in a comment.
  - Make the time calculation more accurate
  	-  Have it take in data of ratios (between number of attempts and time) from previous runs to then have a more accurate calculation
