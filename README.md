@@ -5,7 +5,7 @@
 This is a project made by me for my high school's math “Maker Fair” that took place in February 2022. This project is coded completely in Java, as I made while I took AP CS A. I coded it on [Replit](https://replit.com/@Sharnoff/Maker-Faire-Password-Cracker) for easy sharing at the fair. 
 
 ## What does it do?
-![“hello”, “spaghetti” examples run to show standard output](https://github.com/ksharnoff/brute-forcer/blob/main/hello-spaghetti_example.png)
+![“hello”, “spaghetti” examples run to show standard output](https://github.com/ksharnoff/brute-forcer/blob/main/Examples/hello-spaghetti_example.png)
 
 This is a password cracker using the brute force attack method. When run, it takes in a string as input and then tries out every combination of letter, number, and (some) symbols until it figures out the password. Once it has finished, it prints the password, the number of attempts it took, and the amount of time (in milliseconds or seconds). 
 
