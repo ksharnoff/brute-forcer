@@ -33,7 +33,7 @@ To find the hypothetical attempts, `hypoAttemps`, the input of more than five ch
 Unlike the amount of hypothetical attempts, the amount of time, `hypoSeconds`, is not found quantitatively. Part of this is due to discrepancies for timing of Replit, for example in the example above, the time it took with the input “hello” varied from 1.4 seconds to 4.9 seconds. More about the method chosen is written in [a comment above the function `hypoTime()`](https://github.com/ksharnoff/brute-forcer/blob/main/Hypothetical.java#L63). Look at the section titled *How can this be improved for the future?* for more on the hypothetical time calculations. 
 
 #### Main.java
-![​”!#$%^”, “cheese” examples run to show special output](https://github.com/ksharnoff/brute-forcer/blob/main/!%23%24%25%5E-cheese_examples.png)
+![​”!#$%^”, “cheese” examples run to show special output](https://github.com/ksharnoff/brute-forcer/blob/main/Examples/!%23%24%25%5E-cheese_examples.png)
 
 The `Main` class is most simply an if-else tree. Each possible option in the tree is talked about in the next section, with each exception to a normal run of the program represented by an input in the image right above this. 
 
